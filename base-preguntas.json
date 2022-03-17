@@ -1,0 +1,81 @@
+[
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿Cual es su nombre completo?",
+        "respuesta": "Marco Antonio Morales Ávila",
+        "incorrecta1": "Jose Antonio Garcia Ávila",
+        "incorrecta2": "Antonio Emanuel Gonzáles Pérez",
+        "incorrecta3": "Juan Antonio Morales Ávila",
+        "imagen": "https://i.ibb.co/T4jKDJz/Marcoantonio.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿Quienes fueron la influencia principal de este personaje actualmente?",
+        "respuesta": "El Maau y El Uriel",
+        "incorrecta1": "Late",
+        "incorrecta2": "Late y Maau",
+        "incorrecta3": "Grupos de facebook",
+        "imagen": "https://i.ibb.co/0Dd3fMC/ramirez.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿A quien mataron a balazos?",
+        "respuesta": "A ochoa",
+        "incorrecta1": "A mi tio en ayotzinapa",
+        "incorrecta2": "Al late ",
+        "incorrecta3": "A tu papá"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿Cual es su frase mas famosa?",
+        "respuesta": "Anda ya me crecio la vrg",
+        "incorrecta1": "Yo soy jot0",
+        "incorrecta2": "Me apuntaron con una pistola",
+        "incorrecta3": "No le cobren luz a los narcos",
+        "imagen": "https://i.ibb.co/1ms4swx/wwewqe.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿De que estado es toñito?",
+        "respuesta": "Durango",
+        "incorrecta1": "Chiapas",
+        "incorrecta2": "Queretaro",
+        "incorrecta3": "Sonora",
+        "imagen": "https://i.ibb.co/JprGc40/wa.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿Los narcos dan?",
+        "respuesta": "Diez pesos",
+        "incorrecta1": "Una torta de huevito",
+        "incorrecta2": "Cien mil pesos",
+        "incorrecta3": "Diez mil pesos",
+        "imagen": "https://i.ibb.co/8BdkwhX/XDDD.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿Cual es el apodo mas conocido de toño?",
+        "respuesta": "Toño Fox",
+        "incorrecta1": "Cepillo Fox",
+        "incorrecta2": "El panes",
+        "incorrecta3": "Toñito",
+        "imagen": "https://i.ibb.co/pZXStdV/ttttt.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "By: Frogg LyRio",
+        "pregunta": "¿En que año fue la supuesta muerte de toño?",
+        "respuesta": "2018",
+        "incorrecta1": "2019",
+        "incorrecta2": "2012",
+        "incorrecta3": "2020",
+        "imagen": "https://i.ibb.co/wJh6PLR/image.png",
+        "objectFit": "contain"
+    }
+    
+]
